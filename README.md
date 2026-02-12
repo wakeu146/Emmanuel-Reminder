@@ -56,6 +56,6 @@ This project was developed to:
 
 ---
 
-## 👨‍💻 Author
-Emmanuel Wakeu  
-Software Engineering Student | Front-End Developer | Aspiring Full-Stack Developer 🚀
+##  Author
+Wakeu Emmanuel
+Software Engineering | Junior Fullstack Developer
