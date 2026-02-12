@@ -57,5 +57,5 @@ This project was developed to:
 ---
 
 ##  Author
-Wakeu Emmanuel
+Wakeu Emmanuel|
 Software Engineering | Junior Fullstack Developer
