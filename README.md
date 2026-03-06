@@ -1,7 +1,7 @@
 # Reminder App (Android) – Version 1.0
 
 ##  Overview
-Reminder App is an Android application designed to help users **manage tasks and reminders efficiently**.  
+Emmanuel Reminder is an Android application designed to help users **manage tasks and reminders efficiently**.  
 This is the **first version** of the app, featuring a modern interface, intuitive user experience, and a wide range of functionalities.
 
 The app integrates **Java and Kotlin** to provide a seamless and responsive experience on Android devices.
@@ -21,8 +21,8 @@ The app integrates **Java and Kotlin** to provide a seamless and responsive expe
 ---
 
 ##  Technologies Used
-- Java (Main Class)
-- Kotlin
+- Java (All class)
+- Kotlin(dependency)
 - Android SDK
 - SQLite / Room (if used for storage)
 - Material Design for UI components
